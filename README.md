@@ -3,8 +3,8 @@
 ## Work Experience
 |||
 |--|--|
-| AI & Software Engineer @ Pints AI - Building agentic insurance underwriting platform | May 2026 to Present |
-AI Engineer @ Pencil Labs - Building hybrid RAG B2B SaaS platform | Nov 2025 to Jan 2026 |
+| **AI & Software Engineer @ Pints AI** - Building agentic insurance underwriting platform | May 2026 to Present |
+| **AI Engineer @ Pencil Labs** - Building hybrid RAG B2B SaaS platform | Nov 2025 to Jan 2026 |
 
 ## Tech stack
 |||
@@ -20,6 +20,7 @@ AI Engineer @ Pencil Labs - Building hybrid RAG B2B SaaS platform | Nov 2025 to 
 - **CareerBoro**: An agentic AI job search assistant that automatically discovers listings, scores your resume fit, sends cold emails, and coaches you through mock interviews — so you can focus on landing the job, not finding it.
 
 - **ParkPulse SG**: ParkPulse SG allows you to locate nearest carparks to your destination, view their real-time slot availability, and navigate to them.
+
 - **Stock Wizard**: A web-based stock analytics tool designed to empower beginner investors with educational tooltips, interactive visualizations, and quant-backed signals — all with a touch of wizardry.
 
 ## Past Hacks
