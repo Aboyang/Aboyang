@@ -26,7 +26,7 @@
 ## Past Hacks
 - Batch 09 International Hackathon 2025 – 1st Place
 - NTU FinTech Essay Challenge 2025 – 2nd Place
--	NTU IEEE x Jane Street Coding Challenge 2025 – 3rd Place	
+-	NTU IEEE x Jane Street Coding Challenge 2025 – 3rd Place
 -	Baringa Inter-Varsity Trading Competition 2025 – Finalist
 -	Beyond Binary Hackathon 2026
 -	HacknRoll 2026
