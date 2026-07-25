@@ -24,7 +24,7 @@
     <tbody>
       <tr>
         <td><strong>Languages</strong></td>
-        <td>TypeScript, JavaScript, Java, Python, HTML, CSS, SQL</td>
+        <td>TypeScript, JavaScript, Java, Python, HTML, CSS, SQL, Shell</td>
       </tr>
       <tr>
         <td><strong>Frontend</strong></td>
@@ -32,7 +32,7 @@
       </tr>
       <tr>
         <td><strong>Backend</strong></td>
-        <td>Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Prisma, Redis</td>
+        <td>Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Prisma, Redis, Zod, BullMQ</td>
       </tr>
       <tr>
         <td><strong>DevOps</strong></td>
@@ -40,11 +40,11 @@
       </tr>
       <tr>
         <td><strong>Cloud</strong></td>
-        <td>AWS, Firebase</td>
+        <td>AWS, GCP, Firebase</td>
       </tr>
       <tr>
         <td><strong>AI/ML</strong></td>
-        <td>LangChain, Qdrant (RAG), PyTorch, Ollama, Claude Code</td>
+        <td>LangChain, LangGraph, Qdrant (RAG), PyTorch, Ollama, Claude Code</td>
       </tr>
     </tbody>
   </table>
