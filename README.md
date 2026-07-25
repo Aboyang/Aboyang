@@ -1,11 +1,13 @@
 # Hi, Jayden KY Here 🫡
 
 ## Work Experience
+|||
 |---|---|
 | **AI & Software Engineer @ Pints AI** - Building agentic insurance underwriting platform | May 2026 to Present |
 | **AI Engineer @ Pencil Labs** - Building hybrid RAG B2B SaaS platform | Nov 2025 to Jan 2026 |
 
 ## Tech stack
+|||
 |---|---|
 | **Languages** | TypeScript, JavaScript, Java, Python, HTML, CSS, SQL |
 | **Frontend** | Next.js, React, Redux, TanStack Query, Tailwind CSS |
