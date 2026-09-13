@@ -7,11 +7,15 @@
   <table>
     <tbody>
       <tr>
-        <td><strong>AI &amp; Software Engineer @ Pints AI</strong> - Building agentic insurance underwriting platform</td>
-        <td>May 2026 to Present</td>
+        <td><strong>Tech Freelancer</strong> - Building Autothought Builder</td>
+        <td>Aug 2026 to Present</td>
       </tr>
       <tr>
-        <td><strong>AI Engineer @ Pencil Labs</strong> - Building hybrid RAG B2B SaaS platform</td>
+        <td><strong>AI &amp; Software Engineer Intern @ Pints AI</strong> - Building agentic insurance underwriting platform</td>
+        <td>May 2026 to Aug 2026</td>
+      </tr>
+      <tr>
+        <td><strong>AI Engineer Intern @ Pencil Labs</strong> - Building hybrid RAG B2B SaaS platform</td>
         <td>Nov 2025 to Jan 2026</td>
       </tr>
     </tbody>
