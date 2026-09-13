@@ -48,7 +48,7 @@
       </tr>
       <tr>
         <td><strong>AI/ML</strong></td>
-        <td>LangChain, LangGraph, Qdrant (RAG), PyTorch, Ollama, Claude Code</td>
+        <td>LangChain, LangGraph, Qdrant (RAG), Scikit-Learn, PyTorch, Ollama, Claude Code</td>
       </tr>
     </tbody>
   </table>
