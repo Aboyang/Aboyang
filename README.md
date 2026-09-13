@@ -87,7 +87,7 @@
   <ul>
     <li>FinTech Master Class @ NTU Open House 2026</li>
     <li>Agentic AI in FinTech Workshop 2026 @ Republic Polytechnics</li>
-    <li>Solidity Workshop</li>
+    <li>Smart Contracts Workshop @ NTU</li>
     <li>FinSight Series 2025 - Blockchain &amp; DeFi @ NTU</li>
     <li>NFC DSA Workshop 2025 @ NTU</li>
   </ul>
@@ -97,7 +97,8 @@
   <h2>Side Hustle</h2>
   <ul>
     <li>Founding President of Nanyang FinTech Catalyst</li>
-    <li>Vice Director of Software Operation Team @ NTU Investment Interactive Club (AY25/26)</li>
     <li>Student Researcher @ NTU URECA - analysing &amp; optimising FX carry trade</li>
+    <li>Vice Director of Software Operation Team @ NTU Investment Interactive Club (AY25/26)</li>
+    <li>External Relations Director @ NTU Business Analytics Club (AY26/27)</li>
   </ul>
 </section>
