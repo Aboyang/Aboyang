@@ -7,7 +7,7 @@
   <table>
     <tbody>
       <tr>
-        <td><strong>Tech Freelancer</strong> - Building <a href="https://dev.builder.autothought.ai">Autothought Builder</a> https://dev.builder.autothought.ai</td>
+        <td><strong>Tech Freelancer</strong> - Building <a href="https://dev.builder.autothought.ai">Autothought Builder</a></td>
         <td>Aug 2026 to Present</td>
       </tr>
       <tr>
