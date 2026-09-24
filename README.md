@@ -7,7 +7,7 @@
   <table>
     <tbody>
       <tr>
-        <td><strong>Tech Freelancer</strong> - Building Autothought Builder</td>
+        <td><strong>Tech Freelancer</strong> - Building [**Tech Freelancer** - Building Autothought Builder](https://dev.builder.autothought.ai)</td>
         <td>Aug 2026 to Present</td>
       </tr>
       <tr>
