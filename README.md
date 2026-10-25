@@ -7,6 +7,10 @@
   <table>
     <tbody>
       <tr>
+        <td><strong>Software Engineer Intern @ ShopBack</strong></td>
+        <td>Incoming</td>
+      </tr>
+      <tr>
         <td><strong>Tech Freelancer</strong> - Building <a href="https://dev.builder.autothought.ai">Autothought Builder</a></td>
         <td>Aug 2026 to Present</td>
       </tr>
@@ -72,7 +76,9 @@
 <section id="past-hacks">
   <h2>Past Hacks</h2>
   <ul>
+    <li>Reap &amp 65Labs Agentic Hackathon – 1st Place</li>
     <li>Batch 09 International Hackathon 2025 – 1st Place</li>
+    <li>NTU IEEE x WIT Coding Challenge 2026 – 2nd Place</li>
     <li>NTU FinTech Essay Challenge 2025 – 2nd Place</li>
     <li>NTU IEEE x Jane Street Coding Challenge 2025 – 3rd Place</li>
     <li>Baringa Inter-Varsity Trading Competition 2025 – Finalist</li>
