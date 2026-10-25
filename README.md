@@ -57,10 +57,13 @@
     </tbody>
   </table>
 </section>
-
+ 
 <section id="projects">
   <h2>Projects</h2>
   <ul>
+    <li>
+      <strong>Minion Rush Agent</strong>: A Minion Rush agent built with reinforcement learning (Q-learning), modelling obstacles, rewards and collection in a hand-built Gymnasium environment, MinionRush-v5.
+    </li>
     <li>
       <strong>CareerBoro</strong>: An agentic AI job search assistant that automatically discovers listings, scores your resume fit, sends cold emails, and coaches you through mock interviews — so you can focus on landing the job, not finding it.
     </li>
